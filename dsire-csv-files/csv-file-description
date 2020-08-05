@@ -2,3 +2,4 @@ This folder contains a zip file of the many csv files of DSIRE data
 This folder also contains an Excel document with the descriptions of what is in each of the csv files
 This folder also contains an Excel document showing the order and connection points to merge the csv files
 The "dbdiagram.io" pathway connection document can be found at: https://dbdiagram.io/d/5f199c2ae586385b4ff7aac6
+The "pgadmin_dsire_merge_1" file contains merged data from the following DSIRE csv files: program, authority, subscription_memo, program_type, and program_detail
