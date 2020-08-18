@@ -1,0 +1,8 @@
+This folder will contain Jupyter Notebook files with code to work with the DSIRE data
+Note that each will likely pull the initial data from my desktop, so part will need to be recoded before someone else can use it
+
+
+The csv file contains code to filter for the key search terms using the "program" DSIRE CSV file
+The "dsire_json_2010_2020_data_v1" file contains code to upload and filter the json file with DSIRE data from January 1, 2010 through July 1, 2020
+The "dsire_json_all_data_v1" file contains code to upload and filter the json file with all DSIRE programs
+The "dsire_json_original_data_filter_v1" contains code to upload, merge, and filter the three time frame DSIRE files. I do not reccomend using it, the other two options will produce more accurate results

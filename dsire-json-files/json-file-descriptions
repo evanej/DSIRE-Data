@@ -1,0 +1,6 @@
+This folder contains the three DSIRE JSON files
+The "dsire_2010-2013.json" file contains the DSIRE data updated from January 1, 2010 through December 31, 2013
+The "dsire_2014-2016.json" file contains the DSIRE data updated from January 1, 2013 through December 31, 2016
+The "dsire_2017-2020.json" file contains the DSIRE data updated from January 1, 2017 through July 1, 2020 (present)
+The "dsire_2010-2020.json" file contains the DSIRE data updated from January 1, 2010 through July 1, 2020 (present)
+The "all_dsire_data.json" file contains all of the DSIRE programs, as of July 24, 2020 (date of download)
