@@ -1,1 +1,2 @@
 It is so a planet!
+This is to text using command line and pushing files
