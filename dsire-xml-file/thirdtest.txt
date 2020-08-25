@@ -1,0 +1,1 @@
+Third test to upload file into github with command line.
